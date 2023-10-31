@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NitinSivamA/React_Nitin_project_21/static/css/main.e7020403.css",
+    "main.js": "/NitinSivamA/React_Nitin_project_21/static/js/main.0205ad7c.js",
+    "static/js/787.85bb9051.chunk.js": "/NitinSivamA/React_Nitin_project_21/static/js/787.85bb9051.chunk.js",
+    "index.html": "/NitinSivamA/React_Nitin_project_21/index.html",
+    "main.e7020403.css.map": "/NitinSivamA/React_Nitin_project_21/static/css/main.e7020403.css.map",
+    "main.0205ad7c.js.map": "/NitinSivamA/React_Nitin_project_21/static/js/main.0205ad7c.js.map",
+    "787.85bb9051.chunk.js.map": "/NitinSivamA/React_Nitin_project_21/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7020403.css",
+    "static/js/main.0205ad7c.js"
+  ]
+}
